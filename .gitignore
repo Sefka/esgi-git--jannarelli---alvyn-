@@ -1,2 +1,1 @@
-*.txt
-/test.env/*
+test.env
